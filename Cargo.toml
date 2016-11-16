@@ -1,0 +1,7 @@
+[package]
+name = "manifest-test"
+version = "0.1.0"
+authors = ["Cat Plus Plus <piotrlegnica@piotrl.pl>"]
+build = "build.rs"
+
+[dependencies]
